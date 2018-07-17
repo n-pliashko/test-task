@@ -1,0 +1,45 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px!important;
+    font-family: sans-serif;
+}
+
+nav ul li a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+div.dt-buttons {
+    padding-left: 20px;
+}
+
+button.dt-button {
+    padding: 2px 7px !important;
+}
+
+.error {
+    color: red;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.ml-30 {
+    margin-left: 30px;
+}
+
+.text-align-center {
+    text-align: center;
+}
